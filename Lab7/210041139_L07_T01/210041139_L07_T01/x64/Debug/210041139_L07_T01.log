@@ -1,0 +1,5 @@
+﻿  StudentCollection.cpp
+  main.cpp
+  Generating Code...
+F:\Labs\OOP Lab\Lab7\210041139_L07_T01\210041139_L07_T01\StudentCollection.cpp(17): warning C4715: 'StudentCollection::operator[]': not all control paths return a value
+  210041139_L07_T01.vcxproj -> F:\Labs\OOP Lab\Lab7\210041139_L07_T01\x64\Debug\210041139_L07_T01.exe
